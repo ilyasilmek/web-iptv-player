@@ -33,6 +33,15 @@
   <!-- HLS.js CDN -->
   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 
+  <!-- PWA & Mobile Meta Tags -->
+  <link rel="manifest" href="./manifest.json">
+  <meta name="theme-color" content="#0284c7">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="IPTV Hub">
+  <link rel="apple-touch-icon" href="./assets/icon-192.png">
+  <link rel="icon" type="image/png" href="./assets/icon-192.png">
+
   <!-- Custom CSS -->
   <link rel="stylesheet" href="./css/styles.css">
 </head>
@@ -516,5 +525,16 @@
 
   <!-- Unified Standalone Script -->
   <script src="./js/bundle.js"></script>
+
+  <!-- PWA Service Worker Registration -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js')
+          .then((reg) => console.log('✅ PWA Service Worker aktif:', reg.scope))
+          .catch((err) => console.warn('PWA Service Worker hatası:', err));
+      });
+    }
+  </script>
 </body>
 </html>
