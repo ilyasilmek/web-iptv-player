@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="tr" class="dark h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IPTV Web Hub - İnteraktif Canlı TV & M3U Oynatıcı</title>
+  
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              50: '#f0f9ff',
+              500: '#0ea5e9',
+              600: '#0284c7',
+              700: '#0369a1',
+            }
+          }
+        }
+      }
+    }
+  </script>
+
+  <!-- Google Fonts: Plus Jakarta Sans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- HLS.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body class="h-full bg-slate-950 text-slate-100 flex flex-col overflow-hidden select-none">
+
+  <!-- ================= TOP HEADER ================= -->
+  <header class="h-16 border-b border-slate-800/80 bg-slate-900/80 backdrop-blur-md flex items-center justify-between px-3 sm:px-6 z-30 flex-shrink-0">
+    <!-- Logo & Title -->
+    <div class="flex items-center gap-3">
+      <div class="w-10 h-10 rounded-xl bg-gradient-to-tr from-sky-500 to-indigo-600 flex items-center justify-center shadow-lg shadow-sky-500/20 flex-shrink-0">
+        <svg class="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 10l4.553-2.276A1 1 0 0121 8.618v6.764a1 1 0 01-1.447.894L15 14M5 18h8a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v8a2 2 0 002 2z"/>
+        </svg>
+      </div>
+      <div>
+        <div class="flex items-center gap-2">
+          <h1 class="text-base sm:text-lg font-extrabold tracking-tight bg-gradient-to-r from-white via-sky-200 to-sky-400 bg-clip-text text-transparent">IPTV Web Hub</h1>
+          <span class="px-2 py-0.5 rounded-full text-[10px] font-semibold bg-sky-500/20 text-sky-400 border border-sky-500/30">PRO</span>
+        </div>
+        <p class="text-[11px] text-slate-400 hidden sm:block">Modern & İnteraktif Canlı TV Oynatıcı</p>
+      </div>
+    </div>
+
+    <!-- Active Playlist Badge & Actions -->
+    <div class="flex items-center gap-2 sm:gap-3">
+      <!-- Active Playlist Info -->
+      <div class="hidden lg:flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-800/70 border border-slate-700/60 text-xs">
+        <span class="text-slate-400">Liste:</span>
+        <span id="playlist-title-badge" class="font-medium text-sky-300 max-w-[170px] truncate">Hazır Kanallar</span>
+      </div>
+
+      <!-- Direct Stream URL Button -->
+      <button id="btn-open-direct-url-modal" class="px-3 py-2 rounded-xl bg-slate-800/90 hover:bg-slate-700 text-slate-200 hover:text-white border border-slate-700/80 text-xs font-semibold flex items-center gap-1.5 transition-all shadow-sm" title="Tekil .m3u8 veya .mp4 linki aç">
+        <svg class="w-4 h-4 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"/>
+        </svg>
+        <span class="hidden sm:inline">Hızlı Link</span>
+      </button>
+
+      <!-- Manage / Add Playlist Button -->
+      <button id="btn-open-playlist-modal" class="px-3.5 py-2 rounded-xl bg-gradient-to-r from-sky-500 to-indigo-600 hover:from-sky-400 hover:to-indigo-500 text-white text-xs font-bold flex items-center gap-1.5 transition-all shadow-md shadow-sky-500/20">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"/>
+        </svg>
+        <span>M3U Yükle</span>
+      </button>
+
+      <!-- Keyboard Shortcuts / Help Button -->
+      <button id="btn-open-shortcuts-modal" class="p-2 rounded-xl bg-slate-800/90 hover:bg-slate-700 text-slate-300 hover:text-white border border-slate-700/80 transition-all" title="Klavye Kısayolları ve Yardım">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+        </svg>
+      </button>
+
+      <!-- Toggle Sidebar (Mobile) -->
+      <button id="btn-toggle-sidebar" class="p-2 rounded-xl bg-slate-800/90 hover:bg-slate-700 text-slate-300 lg:hidden border border-slate-700/80">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"/>
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- ================= MAIN LAYOUT ================= -->
+  <main class="flex-1 min-h-0 flex flex-col lg:flex-row overflow-hidden relative">
+
+    <!-- LEFT / MAIN: VIDEO STAGE & CONTROLS -->
+    <section class="flex-1 flex flex-col bg-slate-950 p-3 lg:p-5 overflow-y-auto">
+      <div class="max-w-6xl w-full mx-auto flex flex-col gap-4">
+        
+        <!-- VIDEO PLAYER CONTAINER -->
+        <div id="player-container" class="player-container relative w-full aspect-video bg-black rounded-2xl overflow-hidden border border-slate-800 shadow-2xl flex items-center justify-center group">
+          
+          <!-- Native Video Tag -->
+          <video id="video-element" class="w-full h-full object-contain" playsinline preload="auto"></video>
+
+          <!-- Autoplay Overlay Click Trigger (If browser blocks audio autoplay) -->
+          <div id="autoplay-overlay" class="absolute inset-0 bg-black/60 backdrop-blur-sm flex flex-col items-center justify-center z-20 cursor-pointer hidden">
+            <div class="w-16 h-16 rounded-full bg-sky-500 flex items-center justify-center shadow-lg shadow-sky-500/50 hover:scale-110 transition-transform">
+              <svg class="w-8 h-8 text-white ml-1 fill-current" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+            </div>
+            <p class="text-sm font-bold text-white mt-3">Yayını Başlatmak İçin Tıklayın</p>
+          </div>
+
+          <!-- Buffering / Loading Spinner -->
+          <div id="player-buffering-spinner" class="absolute inset-0 bg-black/40 backdrop-blur-sm flex flex-col items-center justify-center pointer-events-none transition-opacity hidden z-15">
+            <div class="w-12 h-12 border-4 border-sky-500/30 border-t-sky-500 rounded-full animate-spin"></div>
+            <span class="text-xs font-semibold text-sky-400 mt-3 tracking-wide">Yayın Bağlanıyor...</span>
+          </div>
+
+          <!-- Player Error / Connection Alert Overlay -->
+          <div id="player-error-overlay" class="absolute inset-0 bg-slate-950/90 backdrop-blur-md flex flex-col items-center justify-center p-6 text-center z-25 hidden">
+            <div class="w-14 h-14 rounded-2xl bg-rose-500/20 border border-rose-500/40 flex items-center justify-center text-rose-400 mb-3 shadow-lg shadow-rose-500/20">
+              <svg class="w-7 h-7" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"/>
+              </svg>
+            </div>
+            <h3 class="text-sm sm:text-base font-bold text-white mb-1">Yayın Akışı Başlatılamadı</h3>
+            <p id="player-error-message" class="text-xs text-slate-400 max-w-md mb-4">Sunucu bağlantıyı reddetti (Hesap 2/2 eşzamanlı bağlantı sınırına ulaşmış olabilir veya yayın geçici olarak çevrimdışı).</p>
+            <div class="flex items-center gap-3">
+              <button id="btn-player-retry" class="px-4 py-2 rounded-xl bg-sky-500 hover:bg-sky-400 text-white font-bold text-xs transition-all shadow-md shadow-sky-500/30">
+                Tekrar Dene
+              </button>
+              <button id="btn-player-switch-free" class="px-4 py-2 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-200 hover:text-white border border-slate-700 font-semibold text-xs transition-all">
+                Hazır Kanalları Aç
+              </button>
+            </div>
+          </div>
+
+          <!-- STREAM STATS / HUD OVERLAY (Press 'I') -->
+          <div id="stats-overlay" class="absolute top-4 left-4 glass-dropdown p-3.5 rounded-xl text-xs space-y-1.5 border border-slate-700 text-slate-300 hidden z-20 pointer-events-none">
+            <div class="font-bold text-sky-400 border-b border-slate-700/60 pb-1 flex items-center justify-between gap-4">
+              <span>CANLI YAYIN BİLGİSİ</span>
+              <span class="text-[10px] bg-slate-800 px-1.5 py-0.5 rounded text-slate-400">HUD</span>
+            </div>
+            <div class="flex justify-between gap-6"><span>Çözünürlük:</span><strong id="stat-res" class="text-white font-mono">-</strong></div>
+            <div class="flex justify-between gap-6"><span>Bitrate:</span><strong id="stat-bitrate" class="text-emerald-400 font-mono">-</strong></div>
+            <div class="flex justify-between gap-6"><span>Buffer Boyu:</span><strong id="stat-buffer" class="text-sky-300 font-mono">-</strong></div>
+            <div class="flex justify-between gap-6"><span>Kayıp Kare (Drop):</span><strong id="stat-dropped" class="text-amber-400 font-mono">0</strong></div>
+          </div>
+
+          <!-- TOP PLAYER BAR (Visible on hover) -->
+          <div class="player-controls absolute top-0 left-0 right-0 p-4 bg-gradient-to-b from-black/80 via-black/40 to-transparent flex items-center justify-between z-10">
+            <!-- Channel Mini Badge -->
+            <div class="flex items-center gap-2.5">
+              <span class="flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-rose-500/80 text-white text-[11px] font-bold tracking-wider animate-pulse-live">
+                <span class="w-2 h-2 rounded-full bg-white"></span>
+                CANLI
+              </span>
+              <span id="current-channel-badge" class="px-2 py-0.5 rounded-md bg-sky-500/30 text-sky-300 border border-sky-500/40 text-[10px] font-mono">FHD</span>
+            </div>
+
+            <!-- Quick tools -->
+            <div class="flex items-center gap-2">
+              <button id="btn-stats-toggle" class="p-1.5 rounded-lg bg-black/40 hover:bg-slate-800 text-slate-300 hover:text-white border border-white/10 text-xs flex items-center gap-1" title="Yayın İstatistikleri (Kısayol: I)">
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/>
+                </svg>
+                <span class="text-[11px]">Stats</span>
+              </button>
+            </div>
+          </div>
+
+          <!-- BOTTOM PLAYER CONTROLS (Auto-hide) -->
+          <div class="player-controls absolute bottom-0 left-0 right-0 p-4 bg-gradient-to-t from-black/90 via-black/50 to-transparent flex flex-col gap-2 z-10">
+            
+            <div class="flex items-center justify-between gap-3">
+              <!-- Left Controls (Play, Prev/Next, Volume) -->
+              <div class="flex items-center gap-2 sm:gap-3">
+                <!-- Play/Pause -->
+                <button id="btn-play-pause" class="p-2 sm:p-2.5 rounded-full bg-sky-500 hover:bg-sky-400 text-white shadow-lg shadow-sky-500/30 transition-transform active:scale-95" title="Oynat/Duraklat (Boşluk)">
+                  <svg id="icon-play-pause" class="w-5 h-5 fill-current" viewBox="0 0 24 24">
+                    <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>
+                  </svg>
+                </button>
+
+                <!-- Prev Channel -->
+                <button id="btn-prev-channel" class="p-2 rounded-xl bg-white/10 hover:bg-white/20 text-white transition-colors" title="Önceki Kanal (Yukarı Ok)">
+                  <svg class="w-4 h-4 fill-current" viewBox="0 0 24 24"><path d="M6 6h2v12H6zm3.5 6l8.5 6V6z"/></svg>
+                </button>
+
+                <!-- Next Channel -->
+                <button id="btn-next-channel" class="p-2 rounded-xl bg-white/10 hover:bg-white/20 text-white transition-colors" title="Sonraki Kanal (Aşağı Ok)">
+                  <svg class="w-4 h-4 fill-current" viewBox="0 0 24 24"><path d="M6 18l8.5-6L6 6v12zM16 6v12h2V6h-2z"/></svg>
+                </button>
+
+                <!-- Volume Group -->
+                <div class="flex items-center gap-2 ml-1">
+                  <button id="btn-volume" class="p-2 rounded-xl text-slate-300 hover:text-white hover:bg-white/10" title="Sesi Kapat (M)">
+                    <svg id="icon-volume" class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M5.586 15H4a1 1 0 01-1-1v-4a1 1 0 011-1h1.586l4.707-4.707C10.923 3.663 12 4.109 12 5v14c0 .891-1.077 1.337-1.707.707L5.586 15z"/>
+                    </svg>
+                  </button>
+                  <input id="volume-slider" type="range" min="0" max="100" value="90" class="w-16 sm:w-24 cursor-pointer" title="Ses Seviyesi">
+                </div>
+              </div>
+
+              <!-- Right Controls (Aspect Ratio, Quality, PiP, Screenshot, Fullscreen) -->
+              <div class="flex items-center gap-2">
+                
+                <!-- Aspect Ratio Selector -->
+                <select id="select-aspect-ratio" class="bg-black/60 border border-slate-700 text-slate-300 text-xs rounded-lg px-2 py-1.5 outline-none hover:border-slate-500 cursor-pointer hidden sm:block">
+                  <option value="contain">En-Boy: Sığdır</option>
+                  <option value="cover">En-Boy: Doldur</option>
+                  <option value="16/9">En-Boy: 16:9</option>
+                  <option value="4/3">En-Boy: 4:3</option>
+                </select>
+
+                <!-- Quality Selector -->
+                <select id="select-quality" class="bg-black/60 border border-slate-700 text-slate-300 text-xs rounded-lg px-2 py-1.5 outline-none hover:border-slate-500 cursor-pointer hidden">
+                  <option value="-1">Kalite: Otomatik</option>
+                </select>
+
+                <!-- Screenshot Capture -->
+                <button id="btn-screenshot" class="p-2 rounded-xl bg-white/10 hover:bg-white/20 text-slate-200 hover:text-white transition-colors" title="Ekran Görüntüsü Al (S)">
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 9a2 2 0 012-2h.93a2 2 0 001.664-.89l.812-1.22A2 2 0 0110.07 4h3.86a2 2 0 011.664.89l.812 1.22A2 2 0 0018.07 7H19a2 2 0 012 2v9a2 2 0 01-2 2H5a2 2 0 01-2-2V9z"/>
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 13a3 3 0 11-6 0 3 3 0 016 0z"/>
+                  </svg>
+                </button>
+
+                <!-- Picture in Picture (PiP) -->
+                <button id="btn-pip" class="p-2 rounded-xl bg-white/10 hover:bg-white/20 text-slate-200 hover:text-white transition-colors" title="Resim İçinde Resim (P)">
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"/>
+                  </svg>
+                </button>
+
+                <!-- Fullscreen -->
+                <button id="btn-fullscreen" class="p-2 rounded-xl bg-white/10 hover:bg-white/20 text-slate-200 hover:text-white transition-colors" title="Tam Ekran (F)">
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5l-5-5m5 5v-4m0 4h-4"/>
+                  </svg>
+                </button>
+
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- CHANNEL INFO & SOCIAL ACTIONS BAR -->
+        <div class="p-4 rounded-2xl glass-panel flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+          <div class="flex items-center gap-3.5">
+            <!-- Channel Logo -->
+            <div class="w-14 h-14 rounded-xl bg-slate-900 border border-slate-700/80 p-1 flex items-center justify-center overflow-hidden flex-shrink-0">
+              <img id="current-channel-logo" src="" alt="Logo" class="max-w-full max-h-full object-contain hidden">
+              <span id="current-channel-logo-placeholder" class="text-base font-extrabold text-sky-400">TV</span>
+            </div>
+            <div>
+              <h2 id="current-channel-title" class="text-base sm:text-lg font-bold text-white tracking-tight">TRT 1 HD</h2>
+              <div class="flex items-center gap-2 mt-1">
+                <span id="current-channel-group" class="text-xs text-slate-400 font-medium">Türkiye - Ulusal</span>
+                <span class="w-1 h-1 rounded-full bg-slate-600"></span>
+                <span class="text-xs text-emerald-400 flex items-center gap-1">
+                  <span class="w-1.5 h-1.5 rounded-full bg-emerald-400"></span>
+                  Canlı Yayın Akışı
+                </span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Channel Action Buttons -->
+          <div class="flex items-center gap-2 self-end sm:self-auto">
+            <!-- Favorite Toggle Button -->
+            <button id="btn-channel-favorite" class="px-3.5 py-2 rounded-xl bg-slate-800/80 hover:bg-slate-700 text-slate-400 border border-slate-700 text-xs font-semibold flex items-center gap-1.5 transition-all">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"/>
+              </svg>
+              <span>Favori</span>
+            </button>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- RIGHT: CHANNEL EXPLORER SIDEBAR -->
+    <aside id="sidebar-channels" class="w-full lg:w-96 border-l border-slate-800/80 bg-slate-900/70 backdrop-blur-xl flex flex-col flex-shrink-0 h-full min-h-0 overflow-hidden">
+      
+      <!-- Search & View Bar -->
+      <div class="p-3.5 border-b border-slate-800 flex flex-col gap-2.5 flex-shrink-0">
+        <!-- Search Input -->
+        <div class="relative">
+          <svg class="w-4 h-4 text-slate-400 absolute left-3 top-3 pointer-events-none" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+          </svg>
+          <input id="search-input" type="text" placeholder="Kanal veya kategori ara..." class="w-full bg-slate-950/80 border border-slate-700/80 rounded-xl pl-9 pr-8 py-2 text-xs text-slate-100 placeholder-slate-500 focus:outline-none focus:border-sky-500 transition-colors">
+          <button id="btn-clear-search" class="absolute right-2.5 top-2.5 text-slate-500 hover:text-slate-300">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+          </button>
+        </div>
+
+        <!-- View Controls, Channel Count & Clear List Button -->
+        <div class="flex items-center justify-between text-xs text-slate-400 px-0.5">
+          <span id="channel-count" class="text-[11px] font-medium text-slate-300">Kanallar yükleniyor...</span>
+          <div class="flex items-center gap-1.5">
+            <!-- Clear List Button -->
+            <button id="btn-clear-channels" class="px-2 py-1 rounded-lg bg-rose-500/10 hover:bg-rose-500/20 text-rose-400 hover:text-rose-300 border border-rose-500/30 text-[11px] font-medium flex items-center gap-1 transition-colors" title="Geçerli listeyi ve kanalları temizle">
+              <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/></svg>
+              <span>Temizle</span>
+            </button>
+            <!-- View Mode Switcher -->
+            <div class="flex items-center gap-0.5 bg-slate-950/80 p-0.5 rounded-lg border border-slate-800">
+              <button id="btn-view-list" class="p-1 rounded bg-slate-700 text-sky-400" title="Liste Görünümü">
+                <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/></svg>
+              </button>
+              <button id="btn-view-grid" class="p-1 rounded text-slate-400 hover:text-white" title="Izgara / Grid Görünümü">
+                <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z"/></svg>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Category Dropdown Selector (Açılır Kategori Listesi) -->
+      <div class="p-3 border-b border-slate-800/80 bg-slate-950/50 flex flex-col gap-2 flex-shrink-0">
+        <div class="flex items-center justify-between">
+          <label for="select-category" class="text-[11px] font-bold text-slate-400 uppercase tracking-wider flex items-center gap-1.5">
+            <svg class="w-3.5 h-3.5 text-sky-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 10h16M4 14h16M4 18h16"/>
+            </svg>
+            <span>Kategori Seçimi:</span>
+          </label>
+          <span id="active-category-badge" class="text-[10px] px-2 py-0.5 rounded-full bg-sky-500/20 text-sky-300 font-semibold border border-sky-500/30">Tümü</span>
+        </div>
+        
+        <!-- Custom Styled Select Box -->
+        <div class="relative">
+          <select id="select-category" class="w-full appearance-none bg-slate-900 border border-slate-700/90 hover:border-sky-500/60 focus:border-sky-500 text-slate-100 text-xs font-semibold rounded-xl px-3.5 py-2.5 pr-9 outline-none cursor-pointer transition-colors shadow-inner">
+            <option value="all">📂 Tüm Kanallar</option>
+            <option value="favorites">⭐ Favoriler</option>
+            <option value="history">🕒 Son İzlenenler</option>
+          </select>
+          <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-3 text-slate-400">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+            </svg>
+          </div>
+        </div>
+      </div>
+
+      <!-- Channels List (Scrollable Container) -->
+      <div id="channels-container" class="flex-1 min-h-0 overflow-y-auto p-2">
+        <!-- Injected via JavaScript -->
+      </div>
+
+    </aside>
+
+  </main>
+
+  <!-- ================= MODALS ================= -->
+
+  <!-- 1. M3U / PLAYLIST MANAGER MODAL -->
+  <div id="modal-playlist" class="fixed inset-0 bg-black/70 backdrop-blur-md z-50 hidden items-center justify-center p-4">
+    <div class="w-full max-w-lg glass-dropdown rounded-2xl border border-slate-700 p-5 shadow-2xl flex flex-col gap-4 max-h-[90vh] overflow-y-auto">
+      <div class="flex items-center justify-between border-b border-slate-800 pb-3">
+        <div class="flex items-center gap-2">
+          <div class="p-2 rounded-lg bg-sky-500/20 text-sky-400">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"/></svg>
+          </div>
+          <h3 class="text-base font-bold text-white">Oynatma Listesi & M3U Yükle</h3>
+        </div>
+        <button class="modal-close-btn text-slate-400 hover:text-white p-1 rounded-lg hover:bg-slate-800">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+        </button>
+      </div>
+
+      <!-- Loading Indicator -->
+      <div id="loading-playlist-indicator" class="p-3 rounded-xl bg-sky-500/20 border border-sky-500/30 text-sky-300 text-xs flex items-center gap-2 hidden">
+        <div class="w-4 h-4 border-2 border-sky-400 border-t-transparent rounded-full animate-spin"></div>
+        <span>Oynatma listesi indiriliyor ve kanallar ayrıştırılıyor...</span>
+      </div>
+
+      <!-- File Upload Drag & Drop -->
+      <div id="m3u-drop-zone" class="border-2 border-dashed border-slate-700 hover:border-sky-500/60 rounded-xl p-5 text-center flex flex-col items-center justify-center gap-2 bg-slate-950/40 cursor-pointer transition-colors">
+        <svg class="w-8 h-8 text-sky-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12"/></svg>
+        <p class="text-xs font-semibold text-slate-200">M3U veya M3U8 Dosyasını Sürükleyip Bırakın</p>
+        <label class="px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-sky-300 text-xs font-medium cursor-pointer border border-slate-700">
+          Dosya Seçin (.m3u / .m3u8 / .txt)
+          <input id="input-m3u-file" type="file" accept=".m3u,.m3u8,.txt" class="hidden">
+        </label>
+      </div>
+
+      <!-- M3U URL Input -->
+      <div class="flex flex-col gap-1.5">
+        <label class="text-xs font-semibold text-slate-300">Veya M3U / M3U8 URL Bağlantısı Girin:</label>
+        <div class="flex gap-2">
+          <input id="input-m3u-url" type="url" placeholder="https://example.com/playlist.m3u" class="flex-1 bg-slate-950 border border-slate-700 rounded-xl px-3 py-2 text-xs text-white focus:outline-none focus:border-sky-500">
+          <button id="btn-load-m3u-url" class="px-4 py-2 rounded-xl bg-sky-500 hover:bg-sky-400 text-white text-xs font-semibold transition-all">İndir & Aç</button>
+        </div>
+      </div>
+
+      <!-- Preset Playlists -->
+      <div class="flex flex-col gap-2 mt-2">
+        <h4 class="text-xs font-bold text-slate-400 uppercase tracking-wider">Popüler Hazır Listeler</h4>
+        <div id="preset-playlists-container" class="flex flex-col gap-1.5">
+          <!-- Injected via JS -->
+        </div>
+      </div>
+
+      <!-- Saved Custom Playlists -->
+      <div class="flex flex-col gap-2 mt-2">
+        <h4 class="text-xs font-bold text-slate-400 uppercase tracking-wider">Kaydedilmiş Özel Listelerim</h4>
+        <div id="custom-playlists-container" class="flex flex-col gap-1.5">
+          <!-- Injected via JS -->
+        </div>
+      </div>
+
+      <!-- Modal Footer Action -->
+      <div class="pt-3 border-t border-slate-800/80 flex items-center justify-between">
+        <button id="btn-modal-clear-all" class="px-3 py-1.5 rounded-xl bg-rose-500/10 hover:bg-rose-500/20 text-rose-400 hover:text-rose-300 border border-rose-500/30 text-xs font-semibold flex items-center gap-1.5 transition-colors">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/></svg>
+          <span>Tüm Listeleri ve Kanalları Temizle</span>
+        </button>
+        <button class="modal-close-btn px-4 py-1.5 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-300 text-xs font-semibold">
+          Kapat
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 2. DIRECT URL MODAL -->
+  <div id="modal-direct-url" class="fixed inset-0 bg-black/70 backdrop-blur-md z-50 hidden items-center justify-center p-4">
+    <div class="w-full max-w-md glass-dropdown rounded-2xl border border-slate-700 p-5 shadow-2xl flex flex-col gap-4">
+      <div class="flex items-center justify-between border-b border-slate-800 pb-3">
+        <h3 class="text-base font-bold text-white flex items-center gap-2">
+          <svg class="w-5 h-5 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"/></svg>
+          Doğrudan Akış (Stream) Aç
+        </h3>
+        <button class="modal-close-btn text-slate-400 hover:text-white p-1 rounded-lg hover:bg-slate-800">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+        </button>
+      </div>
+      
+      <form id="form-direct-url" class="flex flex-col gap-3">
+        <div>
+          <label class="text-xs text-slate-300 font-medium">Akış URL Adresi (.m3u8, .mpd veya .mp4):</label>
+          <input id="input-direct-url" type="url" required placeholder="https://example.com/live/stream.m3u8" class="w-full mt-1 bg-slate-950 border border-slate-700 rounded-xl px-3 py-2 text-xs text-white focus:outline-none focus:border-sky-500">
+        </div>
+        <div>
+          <label class="text-xs text-slate-300 font-medium">Kanal Adı (İsteğe bağlı):</label>
+          <input id="input-direct-name" type="text" placeholder="Örn: Özel Canlı Akış" class="w-full mt-1 bg-slate-950 border border-slate-700 rounded-xl px-3 py-2 text-xs text-white focus:outline-none focus:border-sky-500">
+        </div>
+        <button type="submit" class="mt-2 w-full py-2.5 rounded-xl bg-emerald-500 hover:bg-emerald-400 text-slate-950 font-bold text-xs transition-all shadow-lg shadow-emerald-500/20">
+          Hemen Oynat
+        </button>
+      </form>
+    </div>
+  </div>
+
+  <!-- 3. SHORTCUTS & HELP MODAL -->
+  <div id="modal-shortcuts" class="fixed inset-0 bg-black/70 backdrop-blur-md z-50 hidden items-center justify-center p-4">
+    <div class="w-full max-w-md glass-dropdown rounded-2xl border border-slate-700 p-5 shadow-2xl flex flex-col gap-4">
+      <div class="flex items-center justify-between border-b border-slate-800 pb-3">
+        <h3 class="text-base font-bold text-white flex items-center gap-2">
+          <svg class="w-5 h-5 text-sky-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"/></svg>
+          Klavye Kısayolları ve İpuçları
+        </h3>
+        <button class="modal-close-btn text-slate-400 hover:text-white p-1 rounded-lg hover:bg-slate-800">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+        </button>
+      </div>
+      
+      <div class="space-y-2 text-xs">
+        <div class="flex items-center justify-between p-2 rounded-lg bg-slate-900/60 border border-slate-800">
+          <span class="text-slate-300">Oynat / Duraklat</span>
+          <kbd class="px-2 py-1 rounded bg-slate-800 text-sky-300 font-mono">Boşluk (Space)</kbd>
+        </div>
+        <div class="flex items-center justify-between p-2 rounded-lg bg-slate-900/60 border border-slate-800">
+          <span class="text-slate-300">Sonraki / Önceki Kanal</span>
+          <kbd class="px-2 py-1 rounded bg-slate-800 text-sky-300 font-mono">↓ / ↑ Ok Tuşları</kbd>
+        </div>
+        <div class="flex items-center justify-between p-2 rounded-lg bg-slate-900/60 border border-slate-800">
+          <span class="text-slate-300">Ses Artır / Azalt</span>
+          <kbd class="px-2 py-1 rounded bg-slate-800 text-sky-300 font-mono">→ / ← Ok Tuşları</kbd>
+        </div>
+        <div class="flex items-center justify-between p-2 rounded-lg bg-slate-900/60 border border-slate-800">
+          <span class="text-slate-300">Tam Ekran Aç / Kapat</span>
+          <kbd class="px-2 py-1 rounded bg-slate-800 text-sky-300 font-mono">F</kbd>
+        </div>
+        <div class="flex items-center justify-between p-2 rounded-lg bg-slate-900/60 border border-slate-800">
+          <span class="text-slate-300">Sesi Kapat (Mute)</span>
+          <kbd class="px-2 py-1 rounded bg-slate-800 text-sky-300 font-mono">M</kbd>
+        </div>
+        <div class="flex items-center justify-between p-2 rounded-lg bg-slate-900/60 border border-slate-800">
+          <span class="text-slate-300">Resim İçinde Resim (PiP)</span>
+          <kbd class="px-2 py-1 rounded bg-slate-800 text-sky-300 font-mono">P</kbd>
+        </div>
+        <div class="flex items-center justify-between p-2 rounded-lg bg-slate-900/60 border border-slate-800">
+          <span class="text-slate-300">Ekran Görüntüsü Kaydet</span>
+          <kbd class="px-2 py-1 rounded bg-slate-800 text-sky-300 font-mono">S</kbd>
+        </div>
+        <div class="flex items-center justify-between p-2 rounded-lg bg-slate-900/60 border border-slate-800">
+          <span class="text-slate-300">Yayın İstatistik Paneli (HUD)</span>
+          <kbd class="px-2 py-1 rounded bg-slate-800 text-sky-300 font-mono">I</kbd>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Unified Standalone Script -->
+  <script src="./js/bundle.js"></script>
+</body>
+</html>

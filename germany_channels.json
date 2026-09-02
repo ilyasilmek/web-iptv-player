@@ -1,0 +1,4394 @@
+[
+  {
+    "id": "de-88956",
+    "name": "TR:TRT 1 HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/trt1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88956.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-104091",
+    "name": "TR:TRT 1 HD [YEDEK]",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/trt1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/104091.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-88955",
+    "name": "TR:TRT 1 HQ",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/trt1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88955.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-94866",
+    "name": "TR:TRT AVAZ HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/trtavaz.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/94866.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-88959",
+    "name": "TR:ATV HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/atv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88959.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-88958",
+    "name": "TR:ATV HQ",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/atv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88958.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-88962",
+    "name": "TR:SHOW TV HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/showtv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88962.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-88961",
+    "name": "TR:SHOW TV HQ",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/showtv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88961.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-88965",
+    "name": "TR:STAR TV HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/startv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88965.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-88964",
+    "name": "TR:STAR TV HQ",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/startv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88964.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-88968",
+    "name": "TR:KANAL D HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/kanald.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88968.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-88967",
+    "name": "TR:KANAL D HQ",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/kanald.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88967.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-88971",
+    "name": "TR:NOW HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/fox.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88971.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-88970",
+    "name": "TR:NOW HQ",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/fox.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88970.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-88974",
+    "name": "TR:TV 8 HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/tv8.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88974.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-88973",
+    "name": "TR:TV 8 HQ",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/tv8.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88973.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-88982",
+    "name": "TR:TV 8.5 HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/tv85.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88982.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-88980",
+    "name": "TR:BEYAZ TV HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/beyaz.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88980.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-88979",
+    "name": "TR:BEYAZ TV HQ",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/beyaz.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88979.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-88976",
+    "name": "TR:KANAL 7 HQ",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/kanal7.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88976.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-88977",
+    "name": "TR:KANAL 7 HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/kanal7.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88977.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-88984",
+    "name": "TR:TEVE 2 HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/teve2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88984.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89813",
+    "name": "TR:A2 HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/a2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89813.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-88986",
+    "name": "TR:360 TV HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/360tv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88986.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-115820",
+    "name": "TR:BI KANAL HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/bikanal.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/115820.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-115899",
+    "name": "TR:TYT TURK HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/tytturk.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/115899.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-88990",
+    "name": "TR:ATV AVRUPA HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/atveuro.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88990.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-88989",
+    "name": "TR:EURO D HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/kanaldeuro.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88989.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-88988",
+    "name": "TR:EURO STAR HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/eurostar.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88988.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-88991",
+    "name": "TR:TV 8 INT HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/tv8int.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88991.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89118",
+    "name": "TR:TGRT EU HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/tgrteu.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89118.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-88994",
+    "name": "TR:TRT EBA HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/ebalise.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88994.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-144124",
+    "name": "TR:KANAL 1 HD",
+    "group": "TÜRK ULUSAL",
+    "logo": "https://upload.wikimedia.org/wikipedia/tr/8/88/Kanal_1.jpg",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/144124.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89002",
+    "name": "TR:TRT 4K UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/muzik/trt4k.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89002.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-88957",
+    "name": "TR:TRT 1 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/trt1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88957.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-104092",
+    "name": "TR:TRT 1 UHD [YEDEK]",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/trt1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/104092.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-88960",
+    "name": "TR:ATV UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/atv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88960.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-88963",
+    "name": "TR:SHOW TV UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/showtv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88963.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-88966",
+    "name": "TR:STAR TV UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/startv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88966.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-88969",
+    "name": "TR:KANAL D UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/kanald.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88969.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-88972",
+    "name": "TR:NOW UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/fox.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88972.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-88975",
+    "name": "TR:TV 8 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/tv8.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88975.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-88978",
+    "name": "TR:KANAL 7 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/kanal7.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88978.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-88981",
+    "name": "TR:BEYAZ TV UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/beyaz.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88981.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89295",
+    "name": "TR:TRT MUZIK UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/muzik/trtmuzik.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89295.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-88983",
+    "name": "TR:A2 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/a2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88983.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-88985",
+    "name": "TR:TEVE 2 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/teve2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88985.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-88987",
+    "name": "TR:SHOWMAX UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/showmax.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88987.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-88992",
+    "name": "TR:KANAL 7 EU UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/kanal7avrupa.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88992.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89100",
+    "name": "TR:A HABER UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/ahaber.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89100.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-105313",
+    "name": "TR:CNBC-Ê UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/cnbce.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/105313.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89106",
+    "name": "TR:CNN TURK UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/cnnturk.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89106.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89108",
+    "name": "TR:HABERTURK UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/haberturk.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89108.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89111",
+    "name": "TR:TRT HABER UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/trthaber.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89111.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-116793",
+    "name": "TR:HALK TV UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/halktv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/116793.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-116792",
+    "name": "TR:SOZCU TV UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/sozcu.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/116792.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89112",
+    "name": "TR:ULKE TV UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/ulketv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89112.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89117",
+    "name": "TR:FLASH HABER UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/flashaber.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89117.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-90992",
+    "name": "TR:KON TV UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/kontv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/90992.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-96946",
+    "name": "TR:TVNET UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/tvnet.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/96946.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89122",
+    "name": "TR:AKIT TV UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/akitv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89122.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89123",
+    "name": "TR:TV 100 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/tv100.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89123.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89099",
+    "name": "TR:A NEWS UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/anews.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89099.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89160",
+    "name": "TR:TLC UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/tlc.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89160.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89162",
+    "name": "TR:DMAX UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/dmax.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89162.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89174",
+    "name": "TR:BBC EARTH UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/bbcearth.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89174.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89177",
+    "name": "TR:DOCU SCREEN UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/docubox.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89177.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89179",
+    "name": "TR:DISCOVERY CHANNEL UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/discovery.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89179.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89183",
+    "name": "TR:VIASAT HISTORY UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/hvasiat.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89183.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89186",
+    "name": "TR:NAT GEOGRAPHIC UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/nationalgeo.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89186.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89188",
+    "name": "TR:NAT GEOGRAPHIC WILD UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/nationalgeowil.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89188.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89599",
+    "name": "TR:BEINSPORTS 4K (MAC ZAMANI)",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89599.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89012",
+    "name": "TR:BEINSPORTS 1 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/bein1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89012.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89017",
+    "name": "TR:BEINSPORTS 2 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/bein2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89017.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89019",
+    "name": "TR:BEINSPORTS 3 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/bein3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89019.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89021",
+    "name": "TR:BEINSPORTS 4 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/bein4.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89021.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-104160",
+    "name": "TR:BEINSPORTS 5 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/bein5.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/104160.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89032",
+    "name": "TR:BEINSPORTS MAX 1 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/beinmax1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89032.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89034",
+    "name": "TR:BEINSPORTS HABER UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/beinhaber.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89034.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89832",
+    "name": "TR:EXXEN SPORT 1 UHD (FEED YAYIN)",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/exen1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89832.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89042",
+    "name": "TR:EXXEN SPORT 2 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/exxen2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89042.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89045",
+    "name": "TR:EXXEN SPORT 3 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/exxen3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89045.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89048",
+    "name": "TR:EXXEN SPORT 4 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/exxen4.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89048.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89051",
+    "name": "TR:EXXEN SPORT 5 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/exxen5.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89051.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89054",
+    "name": "TR:EXXEN SPORT 6 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/exxen6.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89054.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89055",
+    "name": "TR:EXXEN SPORT 7 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/exxen7.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89055.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89056",
+    "name": "TR:EXXEN SPORT 8 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/exxen8.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89056.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-103747",
+    "name": "TR:SPOR SMART 1 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/smartspor.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/103747.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89060",
+    "name": "TR:SPOR SMART 2 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/smartspor2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89060.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89095",
+    "name": "TR:EUROSPORT 1 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/eurosport1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89095.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89097",
+    "name": "TR:EUROSPORT 2 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/eurosport2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89097.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89062",
+    "name": "TR:S SPORTS 1 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/ssport-1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89062.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89064",
+    "name": "TR:S SPORTS 2 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/ssport-2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89064.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89072",
+    "name": "TR:TIVIBUSPOR UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek2/tivibuspor.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89072.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-92358",
+    "name": "TR:TIVIBUSPOR 1 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/tivibu1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/92358.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-104337",
+    "name": "TR:TABII SPOR UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/tabii1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/104337.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-103828",
+    "name": "TR:TABII SPOR 1 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/tabii1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/103828.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-103829",
+    "name": "TR:TABII SPOR 2 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/tabii2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/103829.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-103830",
+    "name": "TR:TABII SPOR 3 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/tabii3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/103830.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-103831",
+    "name": "TR:TABII SPOR 4 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/tabii4.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/103831.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-103832",
+    "name": "TR:TABII SPOR 5 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/tabii5.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/103832.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-103833",
+    "name": "TR:TABII SPOR 6 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/tabii6.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/103833.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89337",
+    "name": "TR:TRT SPOR UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/trtspor.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89337.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-111498",
+    "name": "TR:TRT YILDIZ UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/trtsporyildiz.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/111498.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89087",
+    "name": "TR:A SPOR UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/aspor.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89087.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-115724",
+    "name": "TR:HT SPOR UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/htspor.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/115724.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-116791",
+    "name": "TR:EKOL SPORTS UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/ekolsports.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/116791.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89089",
+    "name": "TR:FIGHTBOX UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/fightbox.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89089.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89090",
+    "name": "TR:NBA TV UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/nbatv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89090.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89190",
+    "name": "TR:BABY TV UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/cocuk/babytv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89190.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89197",
+    "name": "TR:COCUK SMART UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/cocuk/smarttv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89197.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89207",
+    "name": "TR:FX UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/sinema/fx.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89207.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89210",
+    "name": "TR:SINEMA 1 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/sinamatv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89210.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89211",
+    "name": "TR:SINEMA 2 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek2/sinematv2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89211.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89212",
+    "name": "TR:SINEMA 1001 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/sinema1001.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89212.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89213",
+    "name": "TR:SINEMA 1002 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/sinema1002.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89213.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89214",
+    "name": "TR:SINEMA AILE UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/sinemaaile.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89214.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89215",
+    "name": "TR:SINEMA AILE 2 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek2/sinemaaile2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89215.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89216",
+    "name": "TR:SINEMA KOMEDI UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/sinemakomedi.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89216.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89217",
+    "name": "TR:SINEMA KOMEDI 2 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/sinemakomedi2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89217.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89218",
+    "name": "TR:SINEMA AKSIYON UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/sinemaaksiyon.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89218.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89219",
+    "name": "TR:SINEMA AKSIYON 2 UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/sinemaaksiyon2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89219.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89268",
+    "name": "TR:MOVIESMART TURK UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/sinema/smartmovie.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89268.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89269",
+    "name": "TR:MOVIESMART CLASSIC UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/sinema/moviesmartclasic.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89269.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89270",
+    "name": "TR:DIZISMART PREMIUM UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/sinema/dizismartpremium.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89270.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89283",
+    "name": "TR:FILMBOX UHD",
+    "group": "TÜRK UHD",
+    "logo": "https://i0.wp.com/resim.yayins.com/sinema/filmbox.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89283.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89354",
+    "name": "TR:BEINSPORTS HABER HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/beinhaber.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89354.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-105874",
+    "name": "TR:BEINSPORTS 1 TICARI HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/bein1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/105874.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89006",
+    "name": "TR:BEINSPORTS 1 HD (50FPS)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/bein1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89006.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89004",
+    "name": "TR:BEINSPORTS 1 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/bein1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89004.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89026",
+    "name": "TR:BEINSPORTS 1 HQ (VODAFONE-TURKCELL-TURKIYE)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/bein1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89026.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-89371",
+    "name": "TR:BEINSPORTS 1 SD (DUSUK KALITE)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/bein1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89371.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-146096",
+    "name": "TR:BEINSPORTS 2 HD (50FPS)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/bein2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/146096.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89007",
+    "name": "TR:BEINSPORTS 2 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/bein2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89007.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-112574",
+    "name": "TR:BEINSPORTS 2 HD (YEDEK)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/bein2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/112574.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89009",
+    "name": "TR:BEINSPORTS 3 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/bein3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89009.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-112579",
+    "name": "TR:BEINSPORTS 3 HD (YEDEK)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/bein3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/112579.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89011",
+    "name": "TR:BEINSPORTS 4 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/bein4.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89011.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-115512",
+    "name": "TR:BEINSPORTS 4 HD (YEDEK)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/bein4.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/115512.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89811",
+    "name": "TR:BEINSPORTS 5 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/bein5.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89811.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-112581",
+    "name": "TR:BEINSPORTS 5 HD (YEDEK)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/bein5.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/112581.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89030",
+    "name": "TR:BEINSPORTS MAX 1 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/beinmax1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89030.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89031",
+    "name": "TR:BEINSPORTS MAX 2 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/beinmax2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89031.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89365",
+    "name": "TR:BEIN CONNECT 1 HD [MAC ZAMANI AKTIF]",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/beinconnetc1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89365.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-102635",
+    "name": "TR:BEIN CONNECT 2 HD [MAC ZAMANI AKTIF]",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/beincon2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/102635.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-102634",
+    "name": "TR:BEIN CONNECT 3 HD [MAC ZAMANI AKTIF]",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/beincon3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/102634.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-102633",
+    "name": "TR:BEIN CONNECT 4 HD [MAC ZAMANI AKTIF]",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/beincon4.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/102633.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-102632",
+    "name": "TR:BEIN CONNECT 5 HD [MAC ZAMANI AKTIF]",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/beincon5.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/102632.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-102631",
+    "name": "TR:BEIN CONNECT 6 HD [MAC ZAMANI AKTIF]",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/beincon6.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/102631.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-115513",
+    "name": "TR:SKY SPORTS F1 HD (ALMANCA)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/alman/ek/sjysportsf1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/115513.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89831",
+    "name": "TR:EXXEN SPORT 1 HD (FEED YAYIN)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/exen1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89831.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89036",
+    "name": "TR:EXXEN SPORT 1 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/exen1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89036.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89035",
+    "name": "TR:EXXEN SPORT 1 HQ",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/exen1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89035.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-124524",
+    "name": "TR:SPORTDIGITAL HD (AFRIKA KUPASI - ALMANCA)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/alman/ek4/SPORTDIGITAL.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/124524.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-101303",
+    "name": "TR:EXXEN SPORTS 2 HD (MAC ZAMANI AKTIF )",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/exxen2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/101303.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-101302",
+    "name": "TR:EXXEN SPORTS 3 HD (MAC ZAMANI AKTIF )",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/exxen3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/101302.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-101301",
+    "name": "TR:EXXEN SPORTS 4 HD (MAC ZAMANI AKTIF )",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/exxen4.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/101301.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-101300",
+    "name": "TR:EXXEN SPORTS 5 HD (MAC ZAMANI AKTIF )",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/exxen5.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/101300.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-101299",
+    "name": "TR:EXXEN SPORTS 6 HD (MAC ZAMANI AKTIF )",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/exxen6.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/101299.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-101298",
+    "name": "TR:EXXEN SPORTS 7 HD (MAC ZAMANI AKTIF )",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/exxen7.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/101298.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-101297",
+    "name": "TR:EXXEN SPORTS 8 HD (MAC ZAMANI AKTIF )",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/exxen8.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/101297.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89061",
+    "name": "TR:S SPORTS 1 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/ssport-1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89061.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89063",
+    "name": "TR:S SPORTS 2 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/ssport-2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89063.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-101359",
+    "name": "TR:S SPORT PLUS 1 UHD (MAC ZAMANI)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/ssport1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/101359.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-101358",
+    "name": "TR:S SPORT PLUS 2 UHD (MAC ZAMANI)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/ssport2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/101358.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-101357",
+    "name": "TR:S SPORT PLUS 3 UHD (MAC ZAMANI)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/ssport3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/101357.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-101356",
+    "name": "TR:S SPORT PLUS 4 UHD (MAC ZAMANI)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/ssport4.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/101356.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-101355",
+    "name": "TR:S SPORT PLUS 5 UHD (MAC ZAMANI)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/ssport5.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/101355.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-101354",
+    "name": "TR:S SPORT PLUS 6 UHD (MAC ZAMANI)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/ssport6.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/101354.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-101353",
+    "name": "TR:S SPORT PLUS 7 UHD (MAC ZAMANI)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/ssport7.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/101353.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-101352",
+    "name": "TR:S SPORT PLUS 8 UHD (MAC ZAMANI)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/ssport8.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/101352.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-101351",
+    "name": "TR:S SPORT PLUS 9 UHD (MAC ZAMANI)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/ssport9.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/101351.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-101350",
+    "name": "TR:S SPORT PLUS 10 UHD (MAC ZAMANI)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/ssport10.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/101350.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-89094",
+    "name": "TR:EUROSPORT 1 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/eurosport1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89094.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89096",
+    "name": "TR:EUROSPORT 2 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/eurosport2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89096.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-103746",
+    "name": "TR:SPOR SMART 1 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/smartspor.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/103746.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89059",
+    "name": "TR:SPOR SMART 2 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/smartspor2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89059.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89071",
+    "name": "TR:TIVIBUSPOR HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek2/tivibuspor.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89071.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-101505",
+    "name": "TR:TIVIBUSPOR 1 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/tivibusp1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/101505.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89075",
+    "name": "TR:TIVIBUSPOR 2 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89075.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89077",
+    "name": "TR:TIVIBUSPOR 3 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89077.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89078",
+    "name": "TR:TIVIBUSPOR 4 HD (MAC ZAMANI)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/tivibu4.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89078.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-104336",
+    "name": "TR:TABII SPOR HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/tabii1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/104336.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-103838",
+    "name": "TR:TABII SPOR 1 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/tabii1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/103838.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-103839",
+    "name": "TR:TABII SPOR 2 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/tabii2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/103839.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-103840",
+    "name": "TR:TABII SPOR 3 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/tabii3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/103840.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-103841",
+    "name": "TR:TABII SPOR 4 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/tabii4.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/103841.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-103842",
+    "name": "TR:TABII SPOR 5 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/tabii5.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/103842.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-103843",
+    "name": "TR:TABII SPOR 6 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/tabii6.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/103843.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-127649",
+    "name": "TR:TABII SPOR 7 HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/tabii1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/127649.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89081",
+    "name": "TR:TRT SPOR HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/trtspor.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89081.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89083",
+    "name": "TR:TRT 3 SPOR HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/trtspo3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89083.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89084",
+    "name": "TR:TRT YILDIZ HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/trtsporyildiz.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89084.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89086",
+    "name": "TR:A SPOR HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/aspor.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89086.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89085",
+    "name": "TR:A SPOR HQ",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/aspor.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89085.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-104546",
+    "name": "TR:HT SPOR HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/htspor.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/104546.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-115725",
+    "name": "TR:HT SPOR HQ",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/htspor.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/115725.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-116803",
+    "name": "TR:SIFIR TV HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/sifir.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/116803.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89080",
+    "name": "TR:FB TV HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/fbtv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89080.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89091",
+    "name": "TR:TAY TV HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/taytv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89091.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89381",
+    "name": "TR:TJK TV HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/tjktv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89381.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89092",
+    "name": "TR:NBA TV HD (TR/ENG)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/nbatv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89092.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89093",
+    "name": "TR:SPORTS TV HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/sportstv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89093.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-114295",
+    "name": "TR:TRACE SPORT STARS HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/2/tracesportstars.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/114295.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-114776",
+    "name": "TR:W SPORTS HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/w-sport.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/114776.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-114775",
+    "name": "TR:COSMO SPORTS HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/cosmo-sports.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/114775.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89897",
+    "name": "TR:WWE SMACKDOWN HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/smackdow.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89897.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-98103",
+    "name": "AZ:CBC SPORT HD",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/cbc.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/98103.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-101296",
+    "name": "TR:UFC FIGHT PASS",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/ufc.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/101296.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-89088",
+    "name": "TR:FIGHTBOX HD (TR/ENG)",
+    "group": "TÜRK SPOR",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/fightbox.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89088.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89110",
+    "name": "TR:TRT HABER HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/trthaber.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89110.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89101",
+    "name": "TR:A HABER HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/ahaber.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89101.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89114",
+    "name": "TR:CNN TURK HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/cnnturk.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89114.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89107",
+    "name": "TR:HABERTURK HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/haberturk.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89107.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89119",
+    "name": "TR:TGRT HABER HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/tgrthaber.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89119.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-105312",
+    "name": "TR:CNBC-Ê HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/cnbce.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/105312.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-93724",
+    "name": "TR:SOZCU TV HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/sozcu.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/93724.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89116",
+    "name": "TR:HALK TV HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/halktv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89116.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89467",
+    "name": "TR:KOZA TV HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/koza.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89467.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89127",
+    "name": "TR:ULUSAL TV HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/ulusaltv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89127.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89115",
+    "name": "TR:TELE 1 HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/tele1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89115.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89113",
+    "name": "TR:ULKE TV HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/ulketv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89113.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-92361",
+    "name": "TR:YOL TV HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek2/yoltv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/92361.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89128",
+    "name": "TR:TH TURK HABER HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/turkhaber.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89128.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89126",
+    "name": "TR:BLOOMBERG HT HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/bloomberg.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89126.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89105",
+    "name": "TR:NTV HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/ntv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89105.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89102",
+    "name": "TR:A PARA HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/apara.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89102.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89120",
+    "name": "TR:BENGUTURK TV HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/bengu.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89120.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-103074",
+    "name": "TR:EKOL TV HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/ekoltv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/103074.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89104",
+    "name": "TR:EKOTURK HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/ekoturk.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89104.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89136",
+    "name": "TR:ES TV HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/estv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89136.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89125",
+    "name": "TR:HABER GLOBAL HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/haberglobal.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89125.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89138",
+    "name": "TR:KANAL 3 HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/kanal3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89138.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89140",
+    "name": "TR:KANAL 23 HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/kanal23.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89140.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89098",
+    "name": "TR:KANAL 24 HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/kanal24.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89098.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89134",
+    "name": "TR:KANAL AVRUPA HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/kanalavrupa.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89134.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89150",
+    "name": "TR:MELTEM TV HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/dini/meltemtv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89150.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89129",
+    "name": "TR:KANAL B HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/kanalb.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89129.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89109",
+    "name": "TR:TRT TURK HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/trtturk.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89109.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89124",
+    "name": "TR:TRT WORLD HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/trtworld.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89124.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89103",
+    "name": "TR:TV 100 HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/tv100.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89103.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89135",
+    "name": "TR:TV 4 HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/kanal4.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89135.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-114793",
+    "name": "TR:LIDER HABER HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/lider-haber-tv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/114793.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89143",
+    "name": "TR:TV 42 HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/42tv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89143.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89131",
+    "name": "TR:TV 5 HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/kanal5.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89131.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-96945",
+    "name": "TR:TVNET HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/tvnet.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/96945.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89121",
+    "name": "TR:EGEMAX TV HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/uzayhaber.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89121.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89451",
+    "name": "TR:AKIT TV HD",
+    "group": "TÜRK HABER",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/akitv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89451.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89166",
+    "name": "TR:TRT BELGESEL HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/trtbelgesel.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89166.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89165",
+    "name": "TR:TRT 2 HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/trt2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89165.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-103868",
+    "name": "TR:NAT GEOGRAPHIC HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/nationalgeo.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/103868.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89187",
+    "name": "TR:NAT GEOGRAPHIC WILD HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/nationalgeowil.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89187.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89178",
+    "name": "TR:DISCOVERY CHANNEL HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/discovery.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89178.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89180",
+    "name": "TR:DISCOVERY ID HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/idx.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89180.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89173",
+    "name": "TR:BBC EARTH HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/bbcearth.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89173.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89911",
+    "name": "TR:VIASAT EXPLORE HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/viasat.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89911.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89182",
+    "name": "TR:VIASAT HISTORY HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/hvasiat.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89182.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89161",
+    "name": "TR:DMAX HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/dmax.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89161.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89159",
+    "name": "TR:TLC HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/tlc.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89159.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89172",
+    "name": "TR:BEIN GURME HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/beingurma.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89172.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89171",
+    "name": "TR:BEIN IZ HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/beiniz.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89171.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89175",
+    "name": "TR:DA VINCI HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/davinci.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89175.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-114791",
+    "name": "TR:TARIH TV HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/tarimtv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/114791.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-114789",
+    "name": "TR:HABITAT HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/habitat.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/114789.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-114285",
+    "name": "TR:TARIM TV HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/2/tarimtv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/114285.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89377",
+    "name": "TR:ANIMAUX HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/animaux.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89377.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89163",
+    "name": "TR:CIFTCI TV HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/ciftcitv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89163.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89380",
+    "name": "TR:YABAN TV HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/yabantv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89380.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89376",
+    "name": "TR:CHASSE & PECHE HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/chasse.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89376.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-114783",
+    "name": "TR:DOCU SCREEN HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/docuscreen.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/114783.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-114284",
+    "name": "TR:FASHION ONE HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/fashion-one.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/114284.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89000",
+    "name": "TR:FASHION TV HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/fashiotv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89000.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89168",
+    "name": "TR:LOVE NATURE HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/lovenature.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89168.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89176",
+    "name": "TR:DOCU SCREEN HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/docubox.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89176.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89167",
+    "name": "TR:TGRT BELGESEL HD",
+    "group": "TÜRK BELGESEL",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/tgrtbelgesel.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89167.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-90481",
+    "name": "TR:BEIN BOX OFFICE 1 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/sinema/beinboxoffice1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/90481.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-90482",
+    "name": "TR:BEIN BOX OFFICE 2 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/sinema/beinboxoffice2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/90482.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-90483",
+    "name": "TR:BEIN BOX OFFICE 3 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/spor/beinbxoffice3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/90483.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-92116",
+    "name": "TR:BEIN SERIES 1 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek2/beindrama.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/92116.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-92115",
+    "name": "TR:BEIN SERIES 2 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek2/beincomedy.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/92115.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89267",
+    "name": "TR:BEIN SERIES 3 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/sinema/beinseriesvice.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89267.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89266",
+    "name": "TR:BEIN SERIES 4 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/sinema/beinseriesscfi.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89266.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-90484",
+    "name": "TR:BEIN MOVIES PREMIERE 1 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/sinema/beinmoviepremeire.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/90484.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89264",
+    "name": "TR:BEIN MOVIES PREMIERE 2 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/beinmoviepremier2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89264.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89261",
+    "name": "TR:BEIN MOVIES STARS HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/sinema/beinmoviesstas.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89261.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-144123",
+    "name": "TR:BEIN MOVIES TURK HD",
+    "group": "TÜRK SINEMA",
+    "logo": "http://logo.purstreams.net/LOGOULTRA/BeinMoviesTurkHd_full_ultra.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/144123.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89272",
+    "name": "TR:DIZISMART MAX HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/sinema/dizismartmax.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89272.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89271",
+    "name": "TR:DIZISMART PREMIUM HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/sinema/dizismartpremium.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89271.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89282",
+    "name": "TR:FILMBOX HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/sinema/filmbox.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89282.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-114781",
+    "name": "TR:BBC FIRST HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/belgesel/bbc-first.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/114781.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89206",
+    "name": "TR:FX HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/sinema/fx.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89206.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89274",
+    "name": "TR:MOVIESMART CLASSIC HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/sinema/moviesmartclasic.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89274.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89273",
+    "name": "TR:MOVIESMART TURK HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/sinema/smartmovie.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89273.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100938",
+    "name": "TR:CINE YESILCAM 1 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cineyesilcam1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100938.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100939",
+    "name": "TR:CINE YESILCAM 2 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cineyesilcam2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100939.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100940",
+    "name": "TR:CINE YESILCAM 3 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cineyesilcam3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100940.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100941",
+    "name": "TR:CINE YESILCAM 4 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cineyesilcam4.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100941.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100942",
+    "name": "TR:CINE YESILCAM 5 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cineyesilcam5.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100942.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89286",
+    "name": "TR:SINEMA AKSIYON HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/sinema/sinemaaksiyontv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89286.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89285",
+    "name": "TR:SINEMA KOMEDI HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/sinemakomedi.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89285.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100944",
+    "name": "TR:SINEMA TV 1002 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/sinema1002.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100944.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100945",
+    "name": "TR:SINEMA TV 2 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek2/sinematv2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100945.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100946",
+    "name": "TR:SINEMA TV AILE 2 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek2/sinemaaile2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100946.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100947",
+    "name": "TR:SINEMA TV AILE HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/sinemaaile.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100947.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89284",
+    "name": "TR:SINEMA AILE HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/sinemaaile.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89284.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100948",
+    "name": "TR:SINEMA TV AKSIYON 2 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/sinemaaksiyon2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100948.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100949",
+    "name": "TR:SINEMA TV AKSIYON HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/sinemaaksiyon.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100949.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100950",
+    "name": "TR:SINEMA TV HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/sinamatv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100950.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100951",
+    "name": "TR:SINEMA TV KOMEDI 2 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/sinemakomedi2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100951.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100952",
+    "name": "TR:SINEMA TV KOMEDI HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/sinemakomedi.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100952.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100953",
+    "name": "TR:SINEMA TV YERLI 2 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek2/sinemayerli2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100953.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100954",
+    "name": "TR:SINEMA TV YERLI HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek2/sinemayerli.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100954.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-92118",
+    "name": "TR:SINEMA YERLI 2 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek2/sinemayerli2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/92118.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-92117",
+    "name": "TR:SINEMA YERLI 1 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek2/sinemayerli.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/92117.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-141512",
+    "name": "TR:CINELUX VIZYON 1 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-VIZYON-1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141512.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141513",
+    "name": "TR:CINELUX VIZYON 2 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-VIZYON-2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141513.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141514",
+    "name": "TR:CINELUX VIZYON 3 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-VIZYON-3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141514.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141515",
+    "name": "TR:CINELUX VIZYON 4 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-VIZYON-4.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141515.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141539",
+    "name": "TR:CINELUX AKSIYON UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-AKSIYON.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141539.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141516",
+    "name": "TR:CINELUX AKSIYON 2 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-AKSIYON-2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141516.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141548",
+    "name": "TR:CINELUX KOMEDI UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-KOMEDI-.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141548.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141549",
+    "name": "TR:CINELUX KOMEDI 2 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-KOMEDI-2-.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141549.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141547",
+    "name": "TR:CINELUX KORKU UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-KORKU.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141547.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141518",
+    "name": "TR:CINELUX KORKU 2 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-KORKU-2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141518.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141523",
+    "name": "TR:CINELUX IMDB UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-IMDB-.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141523.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141524",
+    "name": "TR:CINELUX IMDB 2 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-IMDB-2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141524.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141557",
+    "name": "TR:CINELUX 4K",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-4K-.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141557.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141555",
+    "name": "TR:CINELUX AILE UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-AILE-.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141555.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141556",
+    "name": "TR:CINELUX AILE 2 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-AILE-2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141556.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141538",
+    "name": "TR:CINELUX ANIMASYON UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-ANIMASYON.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141538.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141554",
+    "name": "TR:CINELUX ANIMASYON 2 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-ANIMASYON-2-.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141554.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141553",
+    "name": "TR:CINELUX BILIM KURGU UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-BILIM-KURGU.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141553.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141537",
+    "name": "TR:CINELUX CINEMA MIX UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-CINEMA-MIX-.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141537.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141534",
+    "name": "TR:CINELUX SAVAS UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-SAVAS-.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141534.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141533",
+    "name": "TR:CINELUX YERLI UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-YERLI.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141533.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141542",
+    "name": "TR:CINELUX YERLI 2 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-YERLI-2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141542.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141532",
+    "name": "TR:CINELUX YESILCAM UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-YESILCAM-.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141532.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141541",
+    "name": "TR:CINELUX YESILCAM 2 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-YESILCAM-2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141541.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141517",
+    "name": "TR:CINELUX YESILCAM 3 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-YESILCAM-3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141517.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141535",
+    "name": "TR:CINELUX KOMEDI TURK UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-KOMEDI-TURK-2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141535.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141526",
+    "name": "TR:CINELUX KOMEDI TURK 2 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-KOMEDI-TURK-2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141526.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141519",
+    "name": "TR:CINELUX EZEL 7/24 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-EZEL-7-24-.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141519.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141521",
+    "name": "TR:CINELUX GULDUR GULDUR 2 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-GULDUR-GULDUR-.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141521.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141522",
+    "name": "TR:CINELUX ASMALI KONAK 7/24 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-ASMALI-KONAK-7-24.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141522.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141525",
+    "name": "TR:CINELUX EKMEK TEKNESI 7/24 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-EKMEK-TEKNESI-7-24.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141525.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141527",
+    "name": "TR:CINELUX MUHTESEM YUZYIL 7/24 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-MUHTESEM-YUZYIL-7-24-.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141527.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141530",
+    "name": "TR:CINELUX ASK-I MEMNU 7/24 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-ASK-I-MEMNU-7-24.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141530.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141531",
+    "name": "TR:CINELUX IKINCI BAHAR 7/24 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-IKINCI-BAHAR-7-24.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141531.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141546",
+    "name": "TR:CINELUX KURTLAR VADISI 7/24 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-KURTLAR-VADISI-7-24-.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141546.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141543",
+    "name": "TR:CINELUX VAHSI BATI UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-VAHSI-BATI-.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141543.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141544",
+    "name": "TR:CINELUX VAHSI BATI 2 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-VAHSI-BATI-2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141544.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141551",
+    "name": "TR:CINELUX GULDUR GULDUR UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-GULDUR-GULDUR-.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141551.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141552",
+    "name": "TR:CINELUX C.G.H.B. 2 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-C.G.H.B.-2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141552.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141536",
+    "name": "TR:CINELUX KEMAL SUNAL UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-KEMAL-SUNAL.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141536.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141550",
+    "name": "TR:CINELUX KEMAL SUNAL 2 UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-KEMAL-SUNAL-2-.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141550.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141520",
+    "name": "TR:CINELUX TURKAN SORAY UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-TURKAN-SORAY-.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141520.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141528",
+    "name": "TR:CINELUX CUNEYT ARKIN UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-CUNEYT-ARKIN.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141528.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141529",
+    "name": "TR:CINELUX YILMAZ GUNEY UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-YILMAZ-GUNEY.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141529.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141540",
+    "name": "TR:CINELUX ZEKI METIN UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-ZEKI-METIN-.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141540.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-141545",
+    "name": "TR:CINELUX SENER SEN UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cinelux/CINELUX-SENER-SEN.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/141545.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-140562",
+    "name": "TR:GPRIME AKSIYON 1 ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/aksiyon.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/140562.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-90128",
+    "name": "TR:MAX 4K UHD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/max4k.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/90128.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-90118",
+    "name": "TR:MAX HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/maxhd.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/90118.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-90113",
+    "name": "TR:MAX VIZYON HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/maxvizyon.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/90113.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-90115",
+    "name": "TR:MAX VIZYON 2 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/maxvizyon2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/90115.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-90114",
+    "name": "TR:MAX VIZYON 3 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/maxvizyon3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/90114.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-90130",
+    "name": "TR:MAX VIZYON 4 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/maxvizyon4.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/90130.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-90131",
+    "name": "TR:MAX AKSIYON HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/maxaksiyon.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/90131.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-90132",
+    "name": "TR:MAX AKSYION 2 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/maxaksiyon2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/90132.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-90122",
+    "name": "TR:MAX ANIMASYON HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/maxanimasyon.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/90122.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-90123",
+    "name": "TR:MAX ANIMASYON 2 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/maxanimasyon2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/90123.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-90116",
+    "name": "TR:MAX TURK HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/maxturk.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/90116.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-90120",
+    "name": "TR:MAX GOLD HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/maxgold.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/90120.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-90121",
+    "name": "TR:MAX PREMIER HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/maxpremier.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/90121.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-90117",
+    "name": "TR:MAX STAR WARS HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/maxstarwars.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/90117.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-90112",
+    "name": "TR:MAX WESTERN HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/maxwestern.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/90112.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-90124",
+    "name": "TR:MAX 007 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/max007.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/90124.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100918",
+    "name": "TR:CINE OFFICE 1 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cine1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100918.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100929",
+    "name": "TR:CINE OFFICE 2 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cine2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100929.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100931",
+    "name": "TR:CINE OFFICE 3 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cine3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100931.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100932",
+    "name": "TR:CINE OFFICE 4 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cine4.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100932.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100933",
+    "name": "TR:CINE OFFICE 5 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cine5.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100933.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100934",
+    "name": "TR:CINE OFFICE 6 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cine6.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100934.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100935",
+    "name": "TR:CINE OFFICE 7 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cine7.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100935.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100936",
+    "name": "TR:CINE OFFICE 8 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cine8.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100936.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100937",
+    "name": "TR:CINE OFFICE 9 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cine9.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100937.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100919",
+    "name": "TR:CINE OFFICE 10 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cine10.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100919.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100920",
+    "name": "TR:CINE OFFICE 11 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cine11.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100920.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100921",
+    "name": "TR:CINE OFFICE 12 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cine12.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100921.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100922",
+    "name": "TR:CINE OFFICE 13 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cine13.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100922.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100923",
+    "name": "TR:CINE OFFICE 14 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cine14.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100923.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100924",
+    "name": "TR:CINE OFFICE 15 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cine15.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100924.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100925",
+    "name": "TR:CINE OFFICE 16 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cine16.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100925.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100926",
+    "name": "TR:CINE OFFICE 17 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cine17.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100926.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100927",
+    "name": "TR:CINE OFFICE 18 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cine18.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100927.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100928",
+    "name": "TR:CINE OFFICE 19 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cine19.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100928.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100930",
+    "name": "TR:CINE OFFICE 20 HD",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/cine/cine20.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100930.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-143814",
+    "name": "TR:GLIFE - ADILE NASIT ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/adilnenasit.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143814.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143813",
+    "name": "TR:GLIFE - ATA DEMIRER ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/ata.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143813.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143817",
+    "name": "TR:GLIFE - AYHAN ISIK ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/ayhanisik.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143817.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143774",
+    "name": "TR:GLIFE - CUNEYT ARKIN ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/cuneytarkin.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143774.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143759",
+    "name": "TR:GLIFE - EDIZ HUN ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/edizhun.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143759.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143758",
+    "name": "TR:GLIFE - EMEL SAYIN ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "ps://i0.wp.com/resim.yayins.com/glife/turksinema/emelsayin.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143758.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143792",
+    "name": "TR:GLIFE - KEMAL SUNAL ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/kemalsunal.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143792.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143778",
+    "name": "TR:GLIFE - ALPACINO ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/alpacino.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143778.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143777",
+    "name": "TR:GLIFE - ANGELINA JOLIE ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/angelinajoliy.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143777.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143766",
+    "name": "TR:GLIFE - ARNOLD SCHWARZENEGGER ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/arnold.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143766.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143764",
+    "name": "TR:GLIFE - CAMERON DIAZ ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/camerondiaz.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143764.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143760",
+    "name": "TR:GLIFE - DWAYNE JOHNSON ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/dwaynejohnson.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143760.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143795",
+    "name": "TR:GLIFE - JACKIE CHAN ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/jackiechan.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143795.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143828",
+    "name": "TR:GLIFE - JAN CLAUDE VAN DAMME ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/jcvd.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143828.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143794",
+    "name": "TR:GLIFE - JASON STATHAM ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/jasonstatham.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143794.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143827",
+    "name": "TR:GLIFE - JET LI ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/jetli.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143827.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143725",
+    "name": "TR:GLIFE - JURASSIC WORLD ʜᴅ",
+    "group": "TÜRK COCUK",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turkcocuk/jurassicpark.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143725.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143786",
+    "name": "TR:GLIFE - WILL SMITH ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/willsmith.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143786.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143819",
+    "name": "TR:GLIFE - AILE ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/aile.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143819.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143779",
+    "name": "TR:GLIFE - AKSIYON 2 ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/aksiyon.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143779.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143748",
+    "name": "TR:GLIFE - AKSIYON ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/aksiyon.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143748.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143776",
+    "name": "TR:GLIFE - ANIMASYON ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/animasyon.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143776.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143749",
+    "name": "TR:GLIFE - BELGESEL ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/belgesel.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143749.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143775",
+    "name": "TR:GLIFE - BILIM KURGU ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/bilimkurgu.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143775.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143765",
+    "name": "TR:GLIFE - BOLLYWOOD ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/bollywood.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143765.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143785",
+    "name": "TR:GLIFE - BOXSET ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/boxset.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143785.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143755",
+    "name": "TR:GLIFE - DRAM ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/dram.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143755.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143754",
+    "name": "TR:GLIFE - FANTASTIK ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/fantastik.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143754.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143753",
+    "name": "TR:GLIFE - GERILIM ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/gerilim.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143753.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143812",
+    "name": "TR:GLIFE - HARRY POTTER ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/harrypotter.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143812.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143797",
+    "name": "TR:GLIFE - IMDB TOP 100 ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/imbd100.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143797.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143752",
+    "name": "TR:GLIFE - KOMEDI ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/komedi.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143752.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143751",
+    "name": "TR:GLIFE - KORKU ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/korku.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143751.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143750",
+    "name": "TR:GLIFE - MACERA ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/macera.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143750.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143757",
+    "name": "TR:GLIFE - SAVAS ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/savas.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143757.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143825",
+    "name": "TR:GLIFE - VIZYON 1 ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/vizyon1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143825.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143824",
+    "name": "TR:GLIFE - VIZYON 2 ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/vizyon2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143824.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143823",
+    "name": "TR:GLIFE - VIZYON 3 ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/vizyon3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143823.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143822",
+    "name": "TR:GLIFE - VIZYON 4 ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/vizyon4.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143822.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143821",
+    "name": "TR:GLIFE - VIZYON 5 ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/vizyon5.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143821.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143756",
+    "name": "TR:GLIFE - WESTERN ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/western.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143756.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143784",
+    "name": "TR:GLIFE - YERLI SINEMA 1 ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/yerlisinema1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143784.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143783",
+    "name": "TR:GLIFE - YERLI SINEMA 2 ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/yerlisinema2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143783.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143782",
+    "name": "TR:GLIFE - YERLI SINEMA 3 ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/yerlisinema3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143782.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143781",
+    "name": "TR:GLIFE - YERLI SINEMA 4 ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/yerlisinema4.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143781.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143780",
+    "name": "TR:GLIFE - YERLI SINEMA 5 ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/yerlisinema5.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143780.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143673",
+    "name": "TR:GLIFE - YESILCAM 1 ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/yesilcam1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143673.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143672",
+    "name": "TR:GLIFE - YESILCAM 2 ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/yesilcam2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143672.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143671",
+    "name": "TR:GLIFE - YESILCAM 3 ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/yesilcam3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143671.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143670",
+    "name": "TR:GLIFE - YESILCAM 4 ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/yesilcam4.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143670.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143669",
+    "name": "TR:GLIFE - YESILCAM 5 ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/yesilcam5.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143669.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143661",
+    "name": "TR:GLIFE - AILE SAADETI ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/ailesaadetik.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143661.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143818",
+    "name": "TR:GLIFE - BEHZAT C ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/behzatc.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143818.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143820",
+    "name": "TR:GLIFE - CENNET MAHALLESI ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/cennetmah.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143820.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143763",
+    "name": "TR:GLIFE - DAYI SOV ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/dayi.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143763.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143762",
+    "name": "TR:GLIFE - DEHA ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/deha.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143762.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143761",
+    "name": "TR:GLIFE - DIRILIS ERTUGRUL ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/dirilisertugrul.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143761.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143800",
+    "name": "TR:GLIFE - ESREF RUYA ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/esref.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143800.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143799",
+    "name": "TR:GLIFE - GULDUR GULDUR ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/guldurguldur.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143799.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143798",
+    "name": "TR:GLIFE - ICERDE ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/icerde.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143798.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143796",
+    "name": "TR:GLIFE - ISLER GUCLER ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/islergucler.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143796.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143660",
+    "name": "TR:GLIFE - KACAK ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/kacak.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143660.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143793",
+    "name": "TR:GLIFE - KANIT ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/kanit.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143793.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143831",
+    "name": "TR:GLIFE - KARADAYI 1.SEZON ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/karadayi1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143831.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143830",
+    "name": "TR:GLIFE - KARADAYI 2.SEZON ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/karadayi2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143830.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143829",
+    "name": "TR:GLIFE - KARADAYI 3.SEZON ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/karadayi3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143829.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143791",
+    "name": "TR:GLIFE - KISMET ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/kismet.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143791.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143790",
+    "name": "TR:GLIFE - KIYMA ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/kiyma.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143790.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143832",
+    "name": "TR:GLIFE - KIZILCIK SERBETI ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/kizilcikserbeti.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143832.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143789",
+    "name": "TR:GLIFE - KIZIL GONCALAR ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/kizilgoncalar.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143789.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143668",
+    "name": "TR:GLIFE - KURTLAR VADISI ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/kurtlarvadisi.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143668.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143667",
+    "name": "TR:GLIFE - KURTLAR VADISI PUSU ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/kvp.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143667.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143530",
+    "name": "TR:GLIFE - KUZEY YILDIZI ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/kuzeyyildizi.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143530.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143834",
+    "name": "TR:GLIFE - LEYLA ILE MECNUN ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/leylailemecnun.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143834.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143826",
+    "name": "TR:GLIFE - MAHSUN J",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/mahsunj.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143826.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143833",
+    "name": "TR:GLIFE - MEVZULAR ACIK MIKROFON ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/mevzularacikmikrofon.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143833.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143816",
+    "name": "TR:GLIFE - SIFIR 1 ADANA ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/sifir1adana.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143816.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143815",
+    "name": "TR:GLIFE - SIHIRLI ANNEM ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/cc/sihirliannem.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143815.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143788",
+    "name": "TR:GLIFE - SON YAZ ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/sonyaz.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143788.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143787",
+    "name": "TR:GLIFE - VATANIM SENSIN ʜᴅ",
+    "group": "TÜRK SINEMA",
+    "logo": "https://i0.wp.com/resim.yayins.com/glife/turksinema/vatanimsensin.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143787.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143805",
+    "name": "TR:GLIFE - FLORENCE 4K",
+    "group": "TÜRK MÜZIK",
+    "logo": "https://i0.wp.com/resim.yayins.com/ambiyans/FLORENCE.jpg",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143805.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-143806",
+    "name": "TR:GLIFE - HEAVEN ON EARTH 4K",
+    "group": "TÜRK MÜZIK",
+    "logo": "https://i0.wp.com/resim.yayins.com/ambiyans/HEAVEN.ON.EARTH.jpg",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143806.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-143807",
+    "name": "TR:GLIFE - ISTANBUL 4K",
+    "group": "TÜRK MÜZIK",
+    "logo": "https://i0.wp.com/resim.yayins.com/ambiyans/istanbul.jpg",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143807.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-143808",
+    "name": "TR:GLIFE - JAPAN 4K",
+    "group": "TÜRK MÜZIK",
+    "logo": "https://i0.wp.com/resim.yayins.com/ambiyans/JAPAN.jpg",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143808.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-143801",
+    "name": "TR:GLIFE - MILAN 4K",
+    "group": "TÜRK MÜZIK",
+    "logo": "https://i0.wp.com/resim.yayins.com/ambiyans/milan.jpg",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143801.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-143802",
+    "name": "TR:GLIFE - NEW YORK 4K",
+    "group": "TÜRK MÜZIK",
+    "logo": "https://i0.wp.com/resim.yayins.com/ambiyans/newyork.jpg",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143802.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-143768",
+    "name": "TR:GLIFE - PARIS 4K",
+    "group": "TÜRK MÜZIK",
+    "logo": "https://i0.wp.com/resim.yayins.com/ambiyans/paris.jpg",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143768.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-143769",
+    "name": "TR:GLIFE - PRAGUE 4K",
+    "group": "TÜRK MÜZIK",
+    "logo": "https://i0.wp.com/resim.yayins.com/ambiyans/prague.jpg",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143769.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-143770",
+    "name": "TR:GLIFE - TOKYO 4K",
+    "group": "TÜRK MÜZIK",
+    "logo": "https://i0.wp.com/resim.yayins.com/ambiyans/tokyo.jpg",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143770.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-143771",
+    "name": "TR:GLIFE - TURKEY 4K",
+    "group": "TÜRK MÜZIK",
+    "logo": "https://i0.wp.com/resim.yayins.com/ambiyans/turkey.jpg",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143771.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-143772",
+    "name": "TR:GLIFE - VATICAN 4K",
+    "group": "TÜRK MÜZIK",
+    "logo": "https://i0.wp.com/resim.yayins.com/ambiyans/VATICAN.jpg",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143772.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-143773",
+    "name": "TR:GLIFE - WARSAW 4K",
+    "group": "TÜRK MÜZIK",
+    "logo": "https://i0.wp.com/resim.yayins.com/ambiyans/warsaw.jpg",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143773.m3u8",
+    "resolution": "4K"
+  },
+  {
+    "id": "de-143741",
+    "name": "TR:GLIFE - EN IYI 20 BLUES MUZIKLERI",
+    "group": "TÜRK MÜZIK",
+    "logo": "https://i0.wp.com/resim.yayins.com/muzik/Blues-glife.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143741.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143742",
+    "name": "TR:GLIFE - EN IYI 20 JAZZ MUZIKLERI",
+    "group": "TÜRK MÜZIK",
+    "logo": "https://i0.wp.com/resim.yayins.com/muzik/Jazz.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143742.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143739",
+    "name": "TR:GLIFE - EN IYI 20 RAP/HIP-HOP MUZIKLERI",
+    "group": "TÜRK MÜZIK",
+    "logo": "https://i0.wp.com/resim.yayins.com/muzik/hiphop-RAP.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143739.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143744",
+    "name": "TR:GLIFE - EN IYI 20 REGGAE MUZIKLERI",
+    "group": "TÜRK MÜZIK",
+    "logo": "https://i0.wp.com/resim.yayins.com/muzik/Reggae.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143744.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143746",
+    "name": "TR:GLIFE - EN IYI 20 TURK POP MUZIKLERI",
+    "group": "TÜRK MÜZIK",
+    "logo": "https://i0.wp.com/resim.yayins.com/muzik/Pop.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143746.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143740",
+    "name": "TR:GLIFE - EN IYI 20 TURK RAP/HIP-HOP MUZIKLERI",
+    "group": "TÜRK MÜZIK",
+    "logo": "https://i0.wp.com/resim.yayins.com/muzik/hiphop-RAP.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143740.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143747",
+    "name": "TR:GLIFE - EN IYI 20 TURK ROCK MUZIKLERI",
+    "group": "TÜRK MÜZIK",
+    "logo": "https://i0.wp.com/resim.yayins.com/muzik/Rock.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143747.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143745",
+    "name": "TR:GLIFE - EN IYI 20 YABANCI POP MUZIKLERI",
+    "group": "TÜRK MÜZIK",
+    "logo": "https://i0.wp.com/resim.yayins.com/muzik/Pop.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143745.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-143743",
+    "name": "TR:GLIFE - EN IYI 20 YABANCI ROCK MUZIKLERI",
+    "group": "TÜRK MÜZIK",
+    "logo": "https://i0.wp.com/resim.yayins.com/muzik/Rock.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/143743.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-89472",
+    "name": "TR:ADA TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/adatv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89472.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89413",
+    "name": "TR:AKSU TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/aksutv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89413.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-101348",
+    "name": "TR:KRT TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/ktv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/101348.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89483",
+    "name": "TR:ANADOLU DERNEK TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/anadoludernek.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89483.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-116366",
+    "name": "TR:BURSA AS TV",
+    "group": "TÜRK YEREL",
+    "logo": "",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/116366.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-89428",
+    "name": "TR:MALATYA VUSLAT TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/vuslattv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89428.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-100991",
+    "name": "TR:KON TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/kontv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/100991.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89470",
+    "name": "TR:BRT 1 HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/brttv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89470.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89469",
+    "name": "TR:BRT 2 HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/brt2.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89469.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89468",
+    "name": "TR:BRT 3 HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ulusal/brt3.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89468.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89453",
+    "name": "TR:CAY TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/caytv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89453.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89415",
+    "name": "TR:DEHA TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/dehatv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89415.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89442",
+    "name": "TR:EDESSA TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/edessetv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89442.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89416",
+    "name": "TR:ER TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/erttv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89416.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89460",
+    "name": "TR:FM TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/fmtv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89460.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89445",
+    "name": "TR:GUNEYDOGU TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/gtv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89445.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89424",
+    "name": "TR:KANAL 15 HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/k15.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89424.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89410",
+    "name": "TR:KANAL 26 HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/kanal26.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89410.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89459",
+    "name": "TR:KANAL 32 HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/kanal32.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89459.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89437",
+    "name": "TR:KANAL 33 HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/haber/kanal33.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89437.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89418",
+    "name": "TR:KANAL 68 HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/kanal68.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89418.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89458",
+    "name": "TR:KANAL FIRAT HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/kanalf.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89458.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89474",
+    "name": "TR:KANAL T HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/kanalt.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89474.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89443",
+    "name": "TR:KANAL URFA HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/kanalurfa.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89443.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89409",
+    "name": "TR:KANAL V HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/kanalv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89409.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89003",
+    "name": "TR:KANAL YALOVA HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/kanalyalova.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89003.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-114288",
+    "name": "TR:GONCA TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/2/goncatv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/114288.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-114287",
+    "name": "TR:KANAL 12 HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/2/kanal12.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/114287.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89473",
+    "name": "TR:KIBRIS GENC TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/genctv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89473.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89475",
+    "name": "TR:KIBRIS TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/ktv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89475.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89463",
+    "name": "TR:KOY TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/koytv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89463.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89446",
+    "name": "TR:LINE TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/linetv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89446.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-88999",
+    "name": "TR:MANISA TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/manisatv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88999.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89465",
+    "name": "TR:ORDU ALTAS TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/altastv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89465.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89439",
+    "name": "TR:PAMUKKALE TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/pamukkale.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89439.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89450",
+    "name": "TR:REHBER TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/dini/rehber.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89450.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89481",
+    "name": "TR:RUMELI TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/rumeli.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89481.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-99220",
+    "name": "TR:TEK RUMELI TV",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/rumeli.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/99220.m3u8",
+    "resolution": "SD"
+  },
+  {
+    "id": "de-89426",
+    "name": "TR:SAT 7 TURK HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/satturk.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89426.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89421",
+    "name": "TR:TEMPO TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/tempo.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89421.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89452",
+    "name": "TR:TMB TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/tmb.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89452.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89425",
+    "name": "TR:TON TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/tontv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89425.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89411",
+    "name": "TR:TV 2020 HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/tv2020.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89411.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89419",
+    "name": "TR:TV 41 HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/tv41.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89419.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89488",
+    "name": "TR:TV 52 HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/kanal52.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89488.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89457",
+    "name": "TR:TV KAYSERI HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/ek1/kayseritv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89457.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89414",
+    "name": "TR:TVDEN HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/tvden.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89414.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-88996",
+    "name": "TR:TVO HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/tvo.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/88996.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89422",
+    "name": "TR:VIZYON 58 HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/vizyon58.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89422.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89434",
+    "name": "TR:YENI KOCAELI TV HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/kocalitv.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89434.m3u8",
+    "resolution": "HD"
+  },
+  {
+    "id": "de-89164",
+    "name": "TR:TV 1 HD",
+    "group": "TÜRK YEREL",
+    "logo": "https://i0.wp.com/resim.yayins.com/yerel/tv1.png",
+    "url": "http://germanyservers3.net:8080/live/ilyasilmek/13467900/89164.m3u8",
+    "resolution": "HD"
+  }
+]
